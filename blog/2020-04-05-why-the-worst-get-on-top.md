@@ -8,7 +8,9 @@ description: I used to always question why in many domains, especially politics 
 ---
 
 Well this is not a headline which I came up with myself. This is the title of a chapter in Friedrich Hayek's book [The Road to Serfdom](https://www.goodreads.com/book/show/299215.The_Road_to_Serfdom), but I think its very relevant to the world we live in today.
-![](/img/2020/04/Screenshot-2020-04-05-at-8.39.35-PM.jpg)The Road to Serfdom by FA Hayek
+
+![](/img/2020/04/Screenshot-2020-04-05-at-8.39.35-PM.jpg)
+
 I used to always question why in many domains, especially politics & governance the worst come out on the top. When many of us (at least in my friend circle) agreed that a particular candidate was absolute crass - why does he rise to power? Why don't more educated and intellectual people rose to power and took the nation/state to better place? To me this seemed very perplexing.
 
 Little did I know that a mind far better than mine had debated this in his book written in 1944. If you haven't read about Hayek, you must check him out. Currently he is one of my top 5 authors, right along with Dostoevsky, Nietzsche, Neil Stephenson & Ayn Rand.

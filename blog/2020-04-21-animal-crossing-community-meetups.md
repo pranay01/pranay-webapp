@@ -17,14 +17,4 @@ If you are not aware, [Animal Crossing](https://animal-crossing.com)is a popular
 
 > ***Animal Crossing*** is a [social simulation](https://en.wikipedia.org/wiki/Social_simulation_game)[video game](https://en.wikipedia.org/wiki/Video_game) series developed and published by [Nintendo](https://en.wikipedia.org/wiki/Nintendo) and created by [Katsuya Eguchi](https://en.wikipedia.org/wiki/Katsuya_Eguchi). In *Animal Crossing*, the [player character](https://en.wikipedia.org/wiki/Player_character) is a human who lives in a village inhabited by various [anthropomorphic](https://en.wikipedia.org/wiki/Anthropomorphism) animals, carrying out various activities such as fishing, bug catching, and fossil hunting.
 
-I am pretty excited to see how this meetup will turnout. If you want to attend, just for the heck of it, here's the link:
-[
-
-Deserted Island DevOps
-
-Deserted Island DevOps
-
-![](https://desertedisland.club/favicon.png)Deserted Island DevOps
-
-![](https://desertedisland.club/images/di_small_logo.png)
-](https://desertedisland.club)
+I am pretty excited to see how this meetup will turnout. If you want to attend, just for the heck of it, here's the [link](https://desertedisland.club)

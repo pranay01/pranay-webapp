@@ -8,7 +8,9 @@ description: But if you look from a more objective long term perspective, the wo
 ---
 
 We are all pretty stressed now, aren't we? We don't know how long will this COVID-19 caused lock down will last. Even when the lock down is lifted, surely the economy will go under recession. It will take sometime to speed up to normal level of consumption. Sitting where I am now, everything looks bleak. And the uncertainty is the real bummer! We don't know if this would last for  3 months or 1 year.
-![](/img/2020/04/yin-et-yang_nor.png)Yin Yang
+![](/img/2020/04/yin-et-yang_nor.png)
+
+
 But if you look from a more objective long term perspective, the world operates in cycles. Period of booming growths have seeds for recession in them, and period of recessions have seeds of coming growth. 
 
 For example, in boom time, the economy is doing good and banks start lending more leniently thinking that good times would continue. This leads to increasing NPAs and when the music stops, the house falls down like a pack of card. 

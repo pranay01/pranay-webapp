@@ -18,4 +18,6 @@ The session was powered by this SaaS product - [https://icebreaker.video](https:
 A remote only world is creating new platforms and formats of interaction. It is also making the world flatter. Since, there are no local meetups now, I can now attend any virtual meetup, webinar happening around the world.
 
 For someone who is building a global SaaS product, this is really a blessing 😀
-![](/img/2020/04/Screenshot-2020-04-17-at-12.08.52-AM.jpg)New formats of virtual interaction are emerging with extended lockdowns :)
+![](/img/2020/04/Screenshot-2020-04-17-at-12.08.52-AM.jpg)
+
+New formats of virtual interaction are emerging with extended lockdowns :)

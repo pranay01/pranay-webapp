@@ -68,7 +68,11 @@ This eerily reminds me of Dostoevsky's Crime and Puninshment, where the protagon
 There's a very curious character of Gar Alford, who works at IRS and apparently reads everything 3 times. By going through the same material three times, he is able to catch nuances and details which others tend to miss.
 
 So someone in 2011 was already practising the mantra of going slow which the tech world is *slowly* adopting now.
-![Slow](/img/2018/10/smile-breathe-and-go-slowly.jpg) Art of going Slowly 
+
+![Slow](/img/2018/10/smile-breathe-and-go-slowly.jpg) 
+
+Art of going Slowly 
+
 ### 8. Mission and Meaning
 
 > “Let me tell you a little parable,” Dread wrote to one employee. “It’s the middle ages in Europe. . . .” He went on with the story: A man “walks onto a construction site and he sees a group of laborers carving stone blocks for a building. Most of the men are working slowly, with long, unhappy faces. “What are you doing?” the man asks the laborers, to which they reply, “What does it look like we’re doing? We’re carving stone blocks.” But then the man sees another worker who has a glint in his eye and a smile across his face. This worker seems to be toiling at twice the speed of the others, and his stone carvings are impeccable. So the man goes over and asks him, “What are you doing?” To which this laborer looks back and answers: “I’m building a cathedral to the glory of God.”

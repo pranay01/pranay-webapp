@@ -7,17 +7,8 @@ tags: [startup]
 description: The Effectual Ask makes the barrier to making an ask very low. You just have to go to the other person, tell them what you want and just ask them what would it take for them? You don't have to figure out the right quid pro quo. You don't have to make a pleading request. 
 ---
 
-I had introduced the concept of effectuation few days back in one of my earlier blogs. For your reference I am attaching the blog link below.
-[
+I had introduced the concept of effectuation few days back in one of my earlier blogs. For your reference I am attaching the blog link [here](https://pranay01.com/effectuation/).
 
-Effectuation
-
-The primary idea of effectuation is that the future is not something which is to be searched. Future is made. It is made by human actions.
-
-![](https://blog.pranay01.com/favicon.ico)Pranay PrateekEssays
-
-![](http://blog.pranay01.com/img/2020/04/Regret-Pandora.png)
-](/startup/effectuation/)
 Today I will be discussing about one fo the concepts in effectuation theory - the effectual ask. When we want something from someone, especially for an entrepreneurial venture, generally we take the following 3 approaches:
 
 1. **Visionary** - We paint the picture of the goal we want to achieve, tell the other person our vision for the world - and expect him to align with the vision and hence, help us in what we are asking for. 

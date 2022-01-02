@@ -17,15 +17,6 @@ Developer advocates help other developers learn about the product by writing blo
 
 This roles is pretty new in the Indian SaaS ecosystem. I don't think we have as much experience about it, as we have for inside sales or landing page optimization. 
 
-I have created a public twitter list, where I am adding some great dev advocates I came across on twitter. Would love suggestions on who else to add here.
-[
+I have created a public twitter [list](https://twitter.com/pranay01/lists/dev-advocates), where I am adding some great dev advocates I came across on twitter. Would love suggestions on who else to add here.
 
-@pranay01/Dev Advocates on Twitter
-
-From breaking news and entertainment to sports and politics, get the full story with all the live commentary.
-
-![](https://abs.twimg.com/icons/apple-touch-icon-192x192.png)
-
-![](https://pbs.twimg.com/profile_images/939728518820147200/c66ZKD4G_normal.jpg)
-](https://twitter.com/pranay01/lists/dev-advocates)
 Looking forward to learn more about how can we help developers be more product and do their tasks with ease.

@@ -7,17 +7,8 @@ tags: [remote work, monitoring]
 description: Remote Tools monitoring is very similar to how you monitor an app or service. These tools like Zoom, VPNs, etc. are providing a service. How do we figure out if they are working well for the employees? 
 ---
 
-Splunk recently released [Remote Work Insights - Executive Dashboards](https://github.com/splunk/rwi_executive_dashboard). An organization can create interesting dashboards by collecting data from tools like Zoom, Okta and the VPN software. This can enable executives to figure out how well their remote tools are working and where people are spending time.
-[
+Splunk recently released [Remote Work Insights - Executive Dashboards](https://github.com/splunk/rwi_executive_dashboard). An organization can create interesting dashboards by collecting data from tools like Zoom, Okta and the VPN software. This can enable executives to figure out how well their remote tools are working and where people are spending [time](https://www.splunk.com/en_us/blog/leadership/introducing-splunk-remote-work-insights-our-solution-for-the-new-work-from-home-reality.html).
 
-Introducing Splunk Remote Work Insights: Our Solution for the New Work-from-Home Reality
-
-Introducing Splunk Remote Work Insights (RWI), a solution composed of technical add-ons, dashboards and connectors to deliver real-time visibility across multiple disparate systems
-
-![](https://www.splunk.com/content/dam/splunk2/images/icons/favicons/favicon-196x196.png)Tim TullySplunk-Blogs
-
-![](https://www.splunk.com/content/dam/splunk-blogs/images/2020/03/RWI_2.png)
-](https://www.splunk.com/en_us/blog/leadership/introducing-splunk-remote-work-insights-our-solution-for-the-new-work-from-home-reality.html)
 For example you can create dashboards like
 
 1. Number of Zoom meetings active in the org at a time, classified by type of meeting (Scheduled meeting, personal meeting room, etc.)
