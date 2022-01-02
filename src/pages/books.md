@@ -4,6 +4,36 @@ title: Books
 
 The idea of this page is to keep a note of my projects and progress. I will also add blogs and books which I am reading or I support/ponder about.
 
+# Few books which I read in 2021 :
+- Working in Public: The Making and Maintenance of Open Source Software by Nadia Eghbal
+- Atomic Habits by James Clear 
+- Foundation by Isaac Asimov (February 2021)
+- Foundation and Empire by Isaac Asimov (February 2021)
+- Second Foundation by Isaac Asimov (March 2021)
+- Other Minds: The Octopus and the Evolution of Intelligent Life by Peter Godfrey Smith (April 2021)
+- The Great CEO Within by Matt Mochari (May 2021)
+- Foundation's Edge by Isaac Asimov
+- Foundation and Earth by Isaac Asimov
+- Prelude to Foundation by Isaac Asimov (October 2021)
+- Forward the Foundation by Isaac Asimov (November 2021)
+- Greenlights by Matthew McConaughey (December 2021)
+
+# Few books which I read in 2020 :
+- Secrets of Sand Hill Road by Scott Kupor
+- Desire by Haruki Murakami (Jan 2020)
+- Big Billion Startup : The Untold Flipkart Story by Mihir Dalal (February 2020)
+- Tragic Sense of Life by Miguel De Unamuno 
+- Walden by Henry David Thoreau 
+- Obviously Awesome by April Dunford (April 2020)
+- Mrityunjay (Hindi) by Shivaji Sawant
+- Vayam Raksham (Hindi) by Acharya Chatursen
+- How to Change Your Mind: The New Science of Psychedelics by Michael Pollan (August 2020)
+- The Left Hand of Darkness by Ursula Le Guin (September 2020)
+- Consciousness and the Brain by Stanislas Dehaene
+- Code: And Other Laws of Cyberspace by Lawrence Lessig
+- Crossing the Chasm by Geoffrey Moore
+- Play Bigger by Al Ramadan
+
 # Few books which I read in 2019 :
 
 - The Man Who Solved the Market by Gregory Zuckerman (Dec 2019)

@@ -4,7 +4,10 @@ slug: consciousness
 date_published: 2016-12-05T09:49:21.000Z
 date_updated: 2016-12-05T11:22:23.000Z
 tags: [consciousness, brain, quantum-mechanics]
+image: /img/2016/12/consciousness-time-slices.jpg
 ---
+
+![Cover Image](/img/2016/12/consciousness-time-slices.jpg)
 
 Have been reading a bit about consciousness and it seems that the following topics are closely related:
 
