@@ -12,6 +12,8 @@ The idea of this page is to keep a note of my projects and progress. I will also
 - Second Foundation by Isaac Asimov (March 2021)
 - Other Minds: The Octopus and the Evolution of Intelligent Life by Peter Godfrey Smith (April 2021)
 - The Great CEO Within by Matt Mochari (May 2021)
+- Hell is the Absence of God by Tedd Chiang (August 2021)
+- The Sovereign Individual by James Dale Davidson (July 2021)
 - Foundation's Edge by Isaac Asimov
 - Foundation and Earth by Isaac Asimov
 - Prelude to Foundation by Isaac Asimov (October 2021)
