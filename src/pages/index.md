@@ -6,7 +6,7 @@ title: Introduction
 
 I have been an engineer, product manager, marketeer and entrepreneur. Currently, building [SigNoz](https://signoz.io), an observability platform for Microservice applications.
 
-I started [TapDiscover](https://tapdiscover.com) in 2015. The broad ideas was to make long tail products in local markets easily discoverable.
+I started TapDiscover in 2015. The idea was to make long tail products in local markets easily discoverable.
 
 Currently based out of Bangalore, India.
 
