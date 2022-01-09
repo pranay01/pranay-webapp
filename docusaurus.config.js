@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'But who will monitor the monitor?',
+  title: 'Pranay Prateek',
   tagline: 'Essays and Meditations',
   url: 'https://your-docusaurus-test-site.com',
   baseUrl: '/',
