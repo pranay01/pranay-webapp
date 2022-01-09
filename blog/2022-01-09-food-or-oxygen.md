@@ -40,7 +40,7 @@ But as one of our group partners in YC oftentimes told us, raising more capital 
 
 I recently found a great analogy for this in a [presentation](https://youtu.be/8f6geiVdwpk?t=548) by the Norwegian Prime Minister. Norway is an oil-rich country and does well in all economic indicators like per capita GDP. 
 
-Such countries face something called "The Oil Curse". Oil-rich countries - because they have a good source of income from oil, tend to become overspenders and heavily dependent on oil. Because of this, other areas of the economy suffers, and when oil output reduces they are not ready for the consequences. 
+Such countries face something called [The Oil Curse](https://en.wikipedia.org/wiki/Resource_curse). Oil-rich countries - because they have a good source of income from oil, tend to become overspenders and heavily dependent on oil. Because of this, other areas of the economy suffers, and when oil output reduces they are not ready for the consequences. 
 
 This may sound brash but in his own words -
 
