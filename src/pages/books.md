@@ -111,4 +111,7 @@ The idea of this page is to keep a note of my projects and progress. I will also
 
 - [Paul Graham Essays](http://www.paulgraham.com/articles.html)
 - [Derek Sivers - Why](https://sive.rs/why)
+- [Peter - Segment Founder's Blog](https://rein.pk/)
+- [https://kwokchain.com/](https://kwokchain.com/)
+- [Stripe Founder's Blog & Bookshelf](https://patrickcollison.com/bookshelf)
 
