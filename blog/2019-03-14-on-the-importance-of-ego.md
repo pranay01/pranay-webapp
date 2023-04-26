@@ -9,7 +9,7 @@ description: If you look at world history, most of the big events (whether good 
 
 Ego, as defined in Sigmund Freud's psychoanalysis, is generally considered a bad thing in today's society. People reproach others saying he/she has too much ego.
 
-But Ego is the only thing which drives this world forward. I think it is result of evolution, it still exists today, which emphasis that Ego must have helped human beings in their survival. Evolution of brain led to origin of Ego which can be linked to origin of sconsciousness. Consciousness must have arisen later in human evolution.
+But Ego is the only thing which drives this world forward. It is a result of evolution. It still exists today, which indicates that Ego must have helped human beings in their survival. Evolution of brain led to origin of Ego which can be linked to origin of sconsciousness. Consciousness must have arisen later in human evolution.
 
 If you look at world history, most of the big events (whether good or bad) were led by Ego of an individual. If you look into how Mao's China and its after effects like cultural revolution came into being, its largely due to the ideas which Mao had and his will to act on it. Hitler led to the formation of Nazi Germany.
 
