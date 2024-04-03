@@ -1,5 +1,5 @@
 ---
-title: On Fear
+title: Speed of Light
 slug: frame-of-reference
 tags: [physics, philosophy]
 image: /img/2024/frames.jpeg
