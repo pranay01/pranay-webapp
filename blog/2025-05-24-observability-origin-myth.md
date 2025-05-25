@@ -10,12 +10,25 @@ image: /img/observability-origin-myth-169.webp
 
 # Observability: An Origin Myth
 
-Imagine, for a moment, a world of pure signal.  
-Packets glide like fireflies through fiber canyons; traces unfurl in perfect chronological lacework.  
-In this early eon no gatekeepers stand between engineer and insight.  
-Everything is **open**—code, protocol, wonder.  
-They call this era **Telemetry Genesis**.
+Imagine, for a moment, a world of pure chaos.
 
+World is just waking up to the idea of Cloud. On-prem still rules supreme
+
+After all, why would use a software running in someone else's servers? This is heresy for sysadmins.
+
+Engineers manage everything from how network packets come to your machine to how your servers are cooled.
+
+There is a pride in stacking your own servers. The blinking lights shows how many people are accessing your software.
+
+This was monitoring. The blinking lights in the servers and you.
+
+In this early eon no gatekeepers stand between engineer and insight. 
+
+Everything is **open**—code, protocol, wonder.  
+
+Tools like Nagios, Zabbix sometimes raise their, but are swiftly cut down.
+
+This is the BlinkWatch era
 ---
 
 ### The Pact of the Tinkerers
