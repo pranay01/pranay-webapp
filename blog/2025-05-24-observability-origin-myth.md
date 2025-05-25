@@ -5,11 +5,6 @@ tags: [fiction]
 image: /img/observability-origin-myth-169.webp
 ---
 
-![Cover Image](/img/observability-origin-myth-169.webp)
-
-
-# Observability: An Origin Myth
-
 Imagine, for a moment, a world of pure chaos.
 
 World is just waking up to the idea of Cloud. On-prem still rules supreme
