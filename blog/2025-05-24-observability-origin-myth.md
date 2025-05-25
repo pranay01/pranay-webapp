@@ -2,10 +2,10 @@
 title: Observability - An Origin Myth
 slug: observability-origin-myth
 tags: [fiction]
-image: /img/observability-origin.png
+image: /img/observability-origin-myth-169.webp
 ---
 
-![Cover Image](/img/observability-origin.png)
+![Cover Image](/img/observability-origin-myth-169.webp)
 
 
 # Observability: An Origin Myth
