@@ -28,8 +28,7 @@ Everything is **open**—code, protocol, wonder.
 
 Tools like Nagios, Zabbix sometimes raise their, but are swiftly cut down.
 
-This is the BlinkWatch era
----
+This is the *BlinkWatch era*
 
 ### The Pact of the Tinkerers
 Across IRC nebulae and GitHub hamlets, the Tinkerers share recipes:
@@ -42,7 +41,6 @@ Outages become camp-fire stories; pull-requests, passports to new realms.
 The stack is messy, sure, but it is _ours_.  
 And for a while, that is enough.
 
----
 
 ## The Rise of the Paywall Kingdoms
 
@@ -66,7 +64,6 @@ Engineers begin to ask a heretical question:
 
 > *“Are we observing our systems, or are they observing our spend?”*
 
----
 
 ### The Forgotten Git Rebellion
 In a quiet corner of the internet, a rebel message appears:
@@ -77,7 +74,6 @@ The signature reads **`opentelemetry`**—lowercase, like a secret handshake.
 Old-school maintainers and day-zero cloud natives gather under its banner.  
 They do not promise silver bullets, only **interoperability**—and the right to choose one’s own destiny.
 
----
 
 ## The Return of the Sigils
 
